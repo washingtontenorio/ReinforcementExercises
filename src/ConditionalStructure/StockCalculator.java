@@ -33,6 +33,5 @@ public class StockCalculator {
 
         System.out.println(numeroInteiro);
 
-
     }
 }
