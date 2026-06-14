@@ -1,3 +1,5 @@
+package ConditionalStructure;
+
 public class StockCalculator {
     public static void main(String[] args) {
         double bookjava8 = 59.99;
