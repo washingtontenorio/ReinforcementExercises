@@ -3,18 +3,17 @@ package ObjectOrientation.Class1;
 public class Person {
 
     private String name;
-
     private int age;
 
-    public String getName(){
-        return this.name;
+    public String getName() {
+        return name;
     }
 
-    public void setAge(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 
-    public int getAge(){
+    public int getAge() {
         return age;
     }
 

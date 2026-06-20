@@ -1,4 +1,4 @@
-package ConditionalStructure;
+package RepetitionStructure;
 
 public class MoreLoopings {
     public static void main(String[] args) {

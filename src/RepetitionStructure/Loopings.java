@@ -1,4 +1,4 @@
-package ConditionalStructure;//  operador                      equivalente
+package RepetitionStructure;//  operador                      equivalente
 //    +=                            x = x + x
 //    -=                            x = x - x
 //    *=

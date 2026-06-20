@@ -1,7 +1,7 @@
+package ConditionalStructure;
 
 
-
-    public class TenaryOperator {
+public class TenaryOperator {
 
         public static void main(String[] args) {
 
